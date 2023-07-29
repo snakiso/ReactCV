@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactCV/static/css/main.aeb7f6f4.css",
+    "main.js": "/ReactCV/static/js/main.d4b8f379.js",
+    "static/js/787.25eaef86.chunk.js": "/ReactCV/static/js/787.25eaef86.chunk.js",
+    "static/media/work-4.jpg": "/ReactCV/static/media/work-4.9e4c16a9aa0ecaf41787.jpg",
+    "static/media/work-1.jpg": "/ReactCV/static/media/work-1.44f0339a162b034a33b5.jpg",
+    "static/media/work-3.jpg": "/ReactCV/static/media/work-3.d5c7a8e9f51ba5036132.jpg",
+    "static/media/work-6.jpg": "/ReactCV/static/media/work-6.265843aefecd98dab2ee.jpg",
+    "static/media/work-2.jpg": "/ReactCV/static/media/work-2.cadefe49ae8dd7374844.jpg",
+    "static/media/work-5.jpg": "/ReactCV/static/media/work-5.7deb14a58a1f2e276a19.jpg",
+    "static/media/icon-sprite.svg": "/ReactCV/static/media/icon-sprite.4b4893206af1557da3a1a99ab90a156e.svg",
+    "index.html": "/ReactCV/index.html",
+    "main.aeb7f6f4.css.map": "/ReactCV/static/css/main.aeb7f6f4.css.map",
+    "main.d4b8f379.js.map": "/ReactCV/static/js/main.d4b8f379.js.map",
+    "787.25eaef86.chunk.js.map": "/ReactCV/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb7f6f4.css",
+    "static/js/main.d4b8f379.js"
+  ]
+}
